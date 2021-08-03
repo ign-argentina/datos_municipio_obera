@@ -1,0 +1,59 @@
+{
+  "table": {
+    "isActive": false,
+    "rowsLimit": 5
+  },
+  "charts": {
+    "isActive": true
+  },
+  "metaTags": {
+    "title": "",
+    "description": "",
+    "image": ""
+  },
+  "analytics_ids": [],
+  "excluded_plugins": ["minimap"],
+  "mapConfig": {
+    "center": {
+      "latitude": -27.5045,
+      "longitude": -55.1205
+    },
+    "zoom": {
+      "initial": 12,
+      "min": 3,
+      "max": 21
+    }
+  },
+  "showSearchBar": false,
+  "referencias": {
+    "show": true,
+    "src": "src/styles/images/referencias_icono.png",
+    "width":"25px",
+    "height":"31px"
+  },
+  "theme": {
+    "bodyBackground": "#efebe7",
+    "headerBackground": "#1e85c7",
+    "menuBackground": "#efebe7",
+    "activeLayer": "#1e85c7",
+    "textMenu":"#1e85c7",
+    "textMenuStyle":"",
+    "textLegendMenu":"#9eb7cb",
+    "textLegendMenuStyle":"",
+    "iconBar":"#30a0b6"
+    },
+  "logo": {
+    "title":"Municipalidad de Oberá",
+    "src": "src/config/styles/images/logo.png",
+    "height": "50px",
+    "width": "",
+    "style": "",
+    "srcLogoMini": "src/config/styles/images/logo.png",
+    "miniHeight": "50px",
+    "miniWidth": "",
+    "ministyle": ""
+  },
+  "title": "Visor Mapas Oberá",
+  "website": "https://www.obera.gov.ar/",
+  "favicon": "src/config/styles/images/favicon.ico"
+}
