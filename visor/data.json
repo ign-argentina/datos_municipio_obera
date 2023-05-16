@@ -212,6 +212,17 @@
       "servicio": "wms",
       "version": "1.3.0",
       "host": "https://obera.ign.gob.ar/geoserver/geofisico"
+    },
+    {
+      "type": "wmts",
+      "peso": 130,
+      "nombre": "Fotogrametría",
+      "short_abstract": "Relevamientos fotogramétricos, ortomosaicos, etc.",
+      "class": "",
+      "seccion": "fotogrametria",
+      "servicio": "wmts",
+      "version": "1.0.0",
+      "host": "https://imagenes.ign.gob.ar/geoserver/mosaicos_vuelos_vant"
     }
   ],
   "template": "argenmap-leaflet-muni-tpl-obera"
